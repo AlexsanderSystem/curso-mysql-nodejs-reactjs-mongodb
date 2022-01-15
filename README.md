@@ -8,11 +8,11 @@ comandos mais usados no prompt ou Git:
 npm run dev
 node server.js 
 
-const #express = require('express');
+<code>const #express = require('express');
 const #cookieParser = require('cookie-parser');
 const #cors = require('cors');
 const #path = require('path');
-const #mongoose = require('mongoose');
+const #mongoose = require('mongoose');</code>
 
 - No caso são os nomes das constantes acima devem ser instalados usando o comando npm install #Nome da "const".
 
